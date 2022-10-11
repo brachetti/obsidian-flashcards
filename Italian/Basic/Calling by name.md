@@ -34,4 +34,5 @@ cards-deck: Italian::Basic
 * Io {mi\ chiamo} Ron
 ^1664998601641
 - {1:tu tei} {2:chiami} Toni
-- Your name is Kathi :: Tu tei chiami Kathi
+^1665492476569
+- Your name is Kathi :: Tu tei chiami Kathi ^1665492476580

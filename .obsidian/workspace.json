@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "fe171de3009554ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb3c8ff513942e38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38ebb3ab91cf225e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ukrainian/Basic/Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee01f4053f00fffb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b1b4a74ede4d8c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b23239b5584bb9e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63a3312310037c5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf2b0d6367e40647",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b9140a0ad645a75",
+    "type": "split",
+    "children": [
+      {
+        "id": "06e4bead6856d3aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bd61644c4cc5488",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ukrainian/Basic/Questions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78efd571c14e7707",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ukrainian/Basic/Questions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cee0813fec229e58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5a35a959743d457",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ukrainian/Basic/Questions.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "38ebb3ab91cf225e",
+  "lastOpenFiles": [
+    "Ukrainian/Vocabulary/Animals/Wild animals.md",
+    "Ukrainian/Vocabulary/Animals/Basic.md",
+    "Ukrainian/Vocabulary/Animals/Tamed Animals.md",
+    "Ukrainian/Vocabulary/Basic/Basic Conversation.md",
+    "Ukrainian/Vocabulary/Basic/Relationships.md",
+    "Ukrainian/Vocabulary/Food/Basic.md",
+    "Ukrainian/Vocabulary/Food/Drinks.md",
+    "Ukrainian/Basic/Questions.md",
+    "Italian/Basic/Calling by name.md",
+    "Ukrainian/Basic/Greetings.md"
+  ]
+}
